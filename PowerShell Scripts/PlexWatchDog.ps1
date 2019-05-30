@@ -1,5 +1,5 @@
 # This script should be used with Task Scheduler to run every 15 minutes. This script checks the web ui of Plex and if it does not load it force restarts the Plex Media Server process.
-# If you want to have it log to the event viewer in Windows you will need to uncomment line # 11 and # 15 after running the following command in an elevated powershell window:
+# If you want to have it log to the event viewer in Windows you will need to uncomment line # 14 and # 18 after running the following command in an elevated powershell window:
 # New-EventLog -LogName PlexWatchDog -Source Plex
 
 # Created by github.com/alexandzors
