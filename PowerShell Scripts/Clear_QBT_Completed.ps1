@@ -1,3 +1,6 @@
+# DESCRIPTION
+# This script will remove any torrents that are listed as Completed for over 15 minutes in qBittorrent.
+
 # CONFIG
 
 # Torrents removed if Completed this many minutes ago or older
